@@ -1,0 +1,37 @@
+Hello everyone! I'm excited to share my journey of conducting detailed data analysis on a Customer Transactions dataset using Microsoft Office Excel 2021. 
+Here are the five steps I employed to analyze the dataset:
+
+1. Data Cleaning:
+   - Initially, I transformed the raw dataset into a Table format.
+   - Subsequently, I refined the table for improved clarity.
+   - Following that, I formatted the Purchase Amount column to display values in rupees.
+   - I also introduced a "Status" header to ascertain whether purchases were made, denoted by "Yes" or "No" utilizing the formula: `=IF([@[Purchase Amount]]=0,"No","Yes")`.
+   - To view customer details who have made purchases, users can filter the "Status" header to display only "Yes" responses.
+
+2. Trend Analysis:
+   - I generated a PivotTable to swiftly analyze data.
+   - The PivotTable was configured with dates in the Rows field and Purchase Amount in the Values field.
+   - Additionally, I incorporated a line graph to visualize trends.
+   - I refined the display by concealing years and quarters and optimized the graph's appearance for clarity.
+   - Users can obtain customer details for a specific date by selecting the desired date.
+
+3. Person Analysis:
+   - For analyzing individual customer purchases, users can filter by specific customers.
+   - I created a new worksheet and inputted the customer's name for analysis.
+   - Formulas such as `COUNTIFS`, `SUMIFS`, and `MAXIFS` were utilized to compute relevant metrics.
+   - Users can switch between different individuals for analysis by inputting their respective names.
+
+4. Purchase Modes:
+   - By inserting a PivotTable and arranging fields, users can analyze purchase modes and amounts.
+   - Purchase amounts can be sorted for better comprehension.
+   - Formulas like `SUMIFS` and `COUNTIFS` are employed to calculate total amounts and transaction counts.
+   - Conditional formatting using data bars facilitates comparison.
+
+5. Customer Analysis:
+   - This analysis categorizes customers based on Job Titles.
+   - A PivotTable with Job Titles, Purchase Amounts, and time dimensions is created.
+   - Transaction amounts are formatted with the rupee symbol for clarity.
+   - Conditional formatting using color scales aids in visualizing data intensity.
+   - Users can dynamically analyze data by utilizing slicers.
+
+These interactive data analysis techniques enable swift and elegant insights, crucial for running successful marketing campaigns. 
