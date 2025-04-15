@@ -72,7 +72,7 @@ This kind of insight is crucial for making informed decisions and designing effe
 ## 📁 Project Structure
 ```
 📁 Customer_Transactions_Excel_Analysis/
-├── Customer_Transactions.xlsx
+├── excel-for-data-analysis.xlsx
 ├── README.md
 ```
 
