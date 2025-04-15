@@ -1,7 +1,7 @@
 #  Customer Transactions Data Analysis using Excel 2021
 
 Hello everyone!  
-I'm excited to share my journey of conducting detailed **data analysis** on a **Customer Transactions** dataset using **Microsoft Office Excel 2021**.  
+I'm pleased to share my journey of conducting detailed **data analysis** on a **Customer Transactions** dataset using **Microsoft Office Excel 2021**.  
 This project demonstrates how Excel can be leveraged for interactive and insightful business analysis.
 
 ---
