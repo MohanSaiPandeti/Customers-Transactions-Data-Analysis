@@ -79,4 +79,5 @@ This kind of insight is crucial for making informed decisions and designing effe
 ---
 
 ## 🙌 Let's Connect
-If you have any feedback or want to collaborate, feel free to connect!
+If you have any feedback or want to collaborate, feel free to connect! [My LinkedIn](https://www.linkedin.com/in/mohansaipandeti)
+
